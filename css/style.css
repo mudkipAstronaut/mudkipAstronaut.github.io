@@ -66,8 +66,7 @@ body {
     color: cyan;
 }
 @media screen 
-and (max-width:360px)
-and (max-device-width:360px) {
+and (max-width:380px) {
     .navbar-brand{
         color: #fff;
         cursor: pointer;

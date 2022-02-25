@@ -2,9 +2,8 @@
     margin: 4em auto;
     padding: 1em;
     position: absolute;
-    left: 50%;
+    left: 20%;
     color: white;
-    transform: translate(-50%, -135%);
 }
 .descript h2{
     font-family: "Adam";
